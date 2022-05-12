@@ -7,7 +7,7 @@ tags: DevSecOps
 ---
 
 ### Static scanning is an important part of the proces!
-<img align="right" width="360" height="200" src="/latest/assets/images/Static scanning.png">
+<img align="right" width="360" height="200" src="{{site.basePath}}/latest//assets/images/Static scanning.png">
 Static Code Analysis or Source Code Analysis is usually part of a Code Review (white-box testing) and it is a method of computer program debugging that is done by examining the code without executing the program.</br>
 Static scanning is good way finding coding issues such as:
 
